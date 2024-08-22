@@ -1,0 +1,35 @@
+[25-Jun-2024 07:05:04 UTC] PHP Warning:  Undefined array key "options" in /home2/manansl3/public_html/new/wp-content/plugins/elementor-pro/modules/theme-builder/widgets/site-logo.php on line 123
+[25-Jun-2024 07:05:04 UTC] PHP Warning:  Undefined array key "options" in /home2/manansl3/public_html/new/wp-content/plugins/elementor-pro/modules/theme-builder/widgets/site-logo.php on line 123
+[25-Jun-2024 10:10:33 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home2/manansl3/public_html/new/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/newfold-labs/wp-module-data/includes/Listeners/Commerce.php on line 61
+[25-Jun-2024 10:10:33 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home2/manansl3/public_html/new/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/newfold-labs/wp-module-data/includes/Listeners/Commerce.php on line 77
+[26-Jun-2024 06:26:37 UTC] PHP Warning:  Undefined array key "options" in /home2/manansl3/public_html/new/wp-content/plugins/elementor-pro/modules/theme-builder/widgets/site-logo.php on line 194
+[26-Jun-2024 10:23:20 UTC] PHP Warning:  Undefined array key "options" in /home2/manansl3/public_html/new/wp-content/plugins/elementor-pro/modules/theme-builder/widgets/site-logo.php on line 194
+[02-Jul-2024 13:38:45 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home2/manansl3/public_html/new/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/newfold-labs/wp-module-data/includes/Listeners/Commerce.php on line 61
+[02-Jul-2024 13:38:45 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home2/manansl3/public_html/new/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/newfold-labs/wp-module-data/includes/Listeners/Commerce.php on line 77
+[05-Jul-2024 07:58:07 UTC] Cron reschedule event error for hook: litespeed_task_imgoptm_pull, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
+[09-Jul-2024 09:53:56 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home2/manansl3/public_html/new/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/newfold-labs/wp-module-data/includes/Listeners/Commerce.php on line 61
+[09-Jul-2024 09:53:56 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home2/manansl3/public_html/new/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/newfold-labs/wp-module-data/includes/Listeners/Commerce.php on line 77
+[15-Jul-2024 13:17:53 UTC] Cron reschedule event error for hook: elementor_1_elementor_updater_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"elementor_1_elementor_updater_cron_interval","args":[],"interval":300}
+[15-Jul-2024 14:09:43 UTC] PHP Warning:  Undefined array key "options" in /home2/manansl3/public_html/new/wp-content/plugins/elementor-pro/modules/theme-builder/widgets/site-logo.php on line 194
+[16-Jul-2024 11:25:17 UTC] PHP Fatal error:  Uncaught Error: Class "Essential_Addons_Elementor\Classes\Migration" not found in /home2/manansl3/public_html/new/wp-content/plugins/essential-addons-for-elementor-lite/essential_adons_elementor.php:64
+Stack trace:
+#0 /home2/manansl3/public_html/new/wp-includes/class-wp-hook.php(324): {closure}('')
+#1 /home2/manansl3/public_html/new/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home2/manansl3/public_html/new/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home2/manansl3/public_html/new/wp-settings.php(717): do_action('wp_loaded')
+#4 /home2/manansl3/public_html/new/wp-config.php(97): require_once('/home2/manansl3...')
+#5 /home2/manansl3/public_html/new/wp-load.php(50): require_once('/home2/manansl3...')
+#6 /home2/manansl3/public_html/new/wp-blog-header.php(13): require_once('/home2/manansl3...')
+#7 /home2/manansl3/public_html/new/index.php(17): require('/home2/manansl3...')
+#8 {main}
+  thrown in /home2/manansl3/public_html/new/wp-content/plugins/essential-addons-for-elementor-lite/essential_adons_elementor.php on line 64
+[16-Jul-2024 11:25:29 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home2/manansl3/public_html/new/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/newfold-labs/wp-module-data/includes/Listeners/Commerce.php on line 61
+[16-Jul-2024 11:25:29 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home2/manansl3/public_html/new/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/newfold-labs/wp-module-data/includes/Listeners/Commerce.php on line 77
+[23-Jul-2024 10:55:10 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home2/manansl3/public_html/new/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/newfold-labs/wp-module-data/includes/Listeners/Commerce.php on line 61
+[23-Jul-2024 10:55:10 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home2/manansl3/public_html/new/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/newfold-labs/wp-module-data/includes/Listeners/Commerce.php on line 77
+[30-Jul-2024 18:50:41 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home2/manansl3/public_html/new/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/newfold-labs/wp-module-data/includes/Listeners/Commerce.php on line 61
+[30-Jul-2024 18:50:41 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home2/manansl3/public_html/new/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/newfold-labs/wp-module-data/includes/Listeners/Commerce.php on line 77
+[06-Aug-2024 13:18:30 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home2/manansl3/public_html/new/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/newfold-labs/wp-module-data/includes/Listeners/Commerce.php on line 61
+[06-Aug-2024 13:18:30 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home2/manansl3/public_html/new/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/newfold-labs/wp-module-data/includes/Listeners/Commerce.php on line 77
+[13-Aug-2024 11:15:39 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home2/manansl3/public_html/new/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/newfold-labs/wp-module-data/includes/Listeners/Commerce.php on line 61
+[13-Aug-2024 11:15:39 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home2/manansl3/public_html/new/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/newfold-labs/wp-module-data/includes/Listeners/Commerce.php on line 77

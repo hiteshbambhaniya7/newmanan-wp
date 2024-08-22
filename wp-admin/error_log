@@ -1,0 +1,22 @@
+[25-Jun-2024 06:22:49 UTC] PHP Warning:  Attempt to read property "public" on null in /home2/manansl3/public_html/new/wp-content/mu-plugins/endurance-page-cache.php on line 544
+[25-Jun-2024 06:33:02 UTC] PHP Warning:  Undefined variable $page in /home2/manansl3/public_html/new/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/newfold-labs/wp-module-marketplace/includes/Themes.php on line 177
+[25-Jun-2024 06:33:11 UTC] PHP Warning:  Undefined property: stdClass::$browse in /home2/manansl3/public_html/new/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/newfold-labs/wp-module-marketplace/includes/Themes.php on line 169
+[25-Jun-2024 06:33:12 UTC] PHP Warning:  Undefined property: stdClass::$browse in /home2/manansl3/public_html/new/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/newfold-labs/wp-module-marketplace/includes/Themes.php on line 198
+[25-Jun-2024 06:33:12 UTC] PHP Warning:  Undefined property: stdClass::$browse in /home2/manansl3/public_html/new/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/newfold-labs/wp-module-marketplace/includes/Themes.php on line 169
+[25-Jun-2024 06:33:12 UTC] PHP Warning:  Undefined property: stdClass::$browse in /home2/manansl3/public_html/new/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/newfold-labs/wp-module-marketplace/includes/Themes.php on line 198
+[25-Jun-2024 08:55:07 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home2/manansl3/public_html/new/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 167
+[25-Jun-2024 08:55:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update_meta() on bool in /home2/manansl3/public_html/new/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php:294
+Stack trace:
+#0 /home2/manansl3/public_html/new/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php(167): ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->save_conditions(NULL, Array)
+#1 [internal function]: ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->ajax_save_theme_template_conditions(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 /home2/manansl3/public_html/new/wp-content/plugins/elementor/core/common/modules/ajax/module.php(176): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#3 /home2/manansl3/public_html/new/wp-includes/class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#4 /home2/manansl3/public_html/new/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#5 /home2/manansl3/public_html/new/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /home2/manansl3/public_html/new/wp-admin/admin-ajax.php(192): do_action('wp_ajax_element...')
+#7 {main}
+  thrown in /home2/manansl3/public_html/new/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 294
+[25-Jun-2024 11:15:22 UTC] PHP Warning:  unlink(/home2/manansl3/public_html/new/wp-content/uploads/elementor/css/global.css): No such file or directory in /home2/manansl3/public_html/new/wp-content/plugins/elementor/core/files/manager.php on line 112
+[25-Jun-2024 11:15:22 UTC] PHP Warning:  unlink(/home2/manansl3/public_html/new/wp-content/uploads/elementor/css/post-30.css): No such file or directory in /home2/manansl3/public_html/new/wp-content/plugins/elementor/core/files/manager.php on line 112
+[25-Jun-2024 11:15:22 UTC] PHP Warning:  unlink(/home2/manansl3/public_html/new/wp-content/uploads/elementor/css/post-6.css): No such file or directory in /home2/manansl3/public_html/new/wp-content/plugins/elementor/core/files/manager.php on line 112
+[25-Jun-2024 11:15:22 UTC] PHP Warning:  unlink(/home2/manansl3/public_html/new/wp-content/uploads/elementor/css/post-7.css): No such file or directory in /home2/manansl3/public_html/new/wp-content/plugins/elementor/core/files/manager.php on line 112
